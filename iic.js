@@ -50,7 +50,7 @@ function yes(countryCode) {
     "AR": "SÍ", // Argentina
     "EE": "JAA", // Estonia
     "HR": "DA", // Croatia
-    "CN": "SHI", // China (Mandarin)
+    "CN": "Shì", // China (Mandarin)
     "IN": "HAJI", // India
     "SG": "YA", // Singapore
     "PH": "ÓO", // Phillipines
@@ -129,7 +129,7 @@ function no(countryCode) {
     "AR": "NO", // Argentina
     "EE": "EI", // Estonia
     "HR": "NE", // Croatia
-    "CN": "BÙ SHÌ", // China (Mandarin)
+    "CN": "Bú Shì", // China (Mandarin)
     "IN": "NAHIM", // India
     "SG": "TIDAK", // Singapore
     "PH": "HINDI", // Phillipines
